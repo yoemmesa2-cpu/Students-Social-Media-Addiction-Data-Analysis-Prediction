@@ -4,11 +4,11 @@ Exploratory data analysis and machine learning project investigating the relatio
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=orange)
 ##  Project Members
-1.SONG SOLINE
+1. SONG SOLINE
 
-2.YOEM MESA
+2. YOEM MESA
 
-3.VON NAROTH 
+3. VON NAROTH 
 
 ##  Overview
 
