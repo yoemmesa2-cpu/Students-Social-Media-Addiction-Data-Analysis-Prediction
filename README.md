@@ -2,8 +2,8 @@
 
 Exploratory data analysis and machine learning project investigating the relationship between social media usage, sleep, mental health, and academic performance among students.
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=orange)
-![Excel](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=green)
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Made%20with-Excel-217346?logo=microsoft-excel&logoColor=white)
 ##  Project Members
 1. SONG SOLINE
 
